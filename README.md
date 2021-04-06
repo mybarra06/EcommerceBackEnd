@@ -46,6 +46,7 @@ https://github.com/mybarra06/EcommerceBackEnd
 This application will help track products through tags and categories.
 
 ## Video
+https://drive.google.com/file/d/1ueKRto4ZBAp8ZCI-cBAFqxYkI4lZlNd6/view?usp=sharing 
 
 ## Questions
 ​
